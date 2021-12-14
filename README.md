@@ -8,7 +8,7 @@
 HTML ,CSS, Fontawesome Icons
 
 <p align="center">
- <img src="public/htmlCss.jpg"/>
+ <img src="htmlCss.jpg"/>
 </p>
 
 ## Screenshots
